@@ -16,15 +16,55 @@
                 </action>
                 <action id="0" name="Call function" sid="2866502868054797" type="Function">
                     <param id="0" name="Name">&quot;RegisterItem&quot;</param>
-                    <param id="1" name="Parameter {n}">0{###}99{###}&quot;MOAR PIE&quot;{###}&quot;I.Noodles&quot;</param>
+                    <param id="1" name="Parameter {n}">0{###}99{###}&quot;MOAR PIE&quot;{###}&quot;M. Pie&quot;</param>
                 </action>
                 <action id="0" name="Call function" sid="2972695806626813" type="Function">
                     <param id="0" name="Name">&quot;RegisterItem&quot;</param>
-                    <param id="1" name="Parameter {n}">0{###}99{###}&quot;piepiepie&quot;{###}&quot;Steak&quot;</param>
+                    <param id="1" name="Parameter {n}">0{###}99{###}&quot;piepiepie&quot;{###}&quot;Pie Pie Pie&quot;</param>
                 </action>
                 <action id="0" name="Call function" sid="8628336839377844" type="Function">
                     <param id="0" name="Name">&quot;RegisterItem&quot;</param>
-                    <param id="1" name="Parameter {n}">0{###}99{###}&quot;Legendary pie&quot;{###}&quot;L. Hero&quot;</param>
+                    <param id="1" name="Parameter {n}">0{###}99{###}&quot;Legendary pie&quot;{###}&quot;L. Pie&quot;</param>
+                </action>
+                <action id="0" name="Call function" sid="8628336839377844" type="Function">
+                    <param id="0" name="Name">&quot;RegisterItem&quot;</param>
+                    <param id="1" name="Parameter {n}">0{###}99{###}&quot;Legendary pie&quot;{###}&quot;L. Pie&quot;</param>
+                </action>
+                <action id="0" name="Call function" sid="8628336839377844" type="Function">
+                    <param id="0" name="Name">&quot;RegisterItem&quot;</param>
+                    <param id="1" name="Parameter {n}">0{###}99{###}&quot;Legendary pie&quot;{###}&quot;L. Pie&quot;</param>
+                </action>
+                <action id="0" name="Call function" sid="8628336839377844" type="Function">
+                    <param id="0" name="Name">&quot;RegisterItem&quot;</param>
+                    <param id="1" name="Parameter {n}">0{###}99{###}&quot;Legendary pie&quot;{###}&quot;L. Pie&quot;</param>
+                </action>
+                <action id="0" name="Call function" sid="8628336839377844" type="Function">
+                    <param id="0" name="Name">&quot;RegisterItem&quot;</param>
+                    <param id="1" name="Parameter {n}">0{###}99{###}&quot;Legendary pie&quot;{###}&quot;L. Pie&quot;</param>
+                </action>
+                <action id="0" name="Call function" sid="8628336839377844" type="Function">
+                    <param id="0" name="Name">&quot;RegisterItem&quot;</param>
+                    <param id="1" name="Parameter {n}">0{###}99{###}&quot;Legendary pie&quot;{###}&quot;L. Pie&quot;</param>
+                </action>
+                <action id="0" name="Call function" sid="8628336839377844" type="Function">
+                    <param id="0" name="Name">&quot;RegisterItem&quot;</param>
+                    <param id="1" name="Parameter {n}">0{###}99{###}&quot;Legendary pie&quot;{###}&quot;L. Pie&quot;</param>
+                </action>
+                <action id="0" name="Call function" sid="8628336839377844" type="Function">
+                    <param id="0" name="Name">&quot;RegisterItem&quot;</param>
+                    <param id="1" name="Parameter {n}">0{###}9900000{###}&quot;Legendary pie&quot;{###}&quot;L. Pie&quot;</param>
+                </action>
+                <action id="0" name="Call function" sid="8628336839377844" type="Function">
+                    <param id="0" name="Name">&quot;RegisterItem&quot;</param>
+                    <param id="1" name="Parameter {n}">0{###}9900000{###}&quot;Legendary pie&quot;{###}&quot;L. Pie&quot;</param>
+                </action>
+                <action id="0" name="Call function" sid="8628336839377844" type="Function">
+                    <param id="0" name="Name">&quot;RegisterItem&quot;</param>
+                    <param id="1" name="Parameter {n}">0{###}990000000{###}&quot;Legendary pie&quot;{###}&quot;L. Pie&quot;</param>
+                </action>
+                <action id="0" name="Call function" sid="8628336839377844" type="Function">
+                    <param id="0" name="Name">&quot;RegisterItem&quot;</param>
+                    <param id="1" name="Parameter {n}">0{###}99000000000000000000000000{###}&quot;Legendary pie&quot;{###}&quot;L. Pie&quot;</param>
                 </action>
             </actions>
         </event-block>
