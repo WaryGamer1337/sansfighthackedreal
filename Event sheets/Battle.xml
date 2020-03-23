@@ -96,7 +96,7 @@
                     </conditions>
                     <actions>
                         <action id="0" name="Set text" sid="9190566972510164" type="RPGText">
-                            <param id="0" name="Text">uppercase(Name) &amp; &quot;   LV 19&quot;</param>
+                            <param id="0" name="Text">uppercase(Name) &amp; &quot;   LV 99&quot;</param>
                         </action>
                     </actions>
                 </event-block>
